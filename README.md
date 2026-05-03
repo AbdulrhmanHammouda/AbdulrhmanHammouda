@@ -1,9 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=200&section=header&text=Abdulrahman%20Wael&fontSize=48&fontAlignY=38&desc=Computer%20%26%20AI%20Engineer%20%7C%20Full-Stack%20Dev%20%7C%20ML%20Enthusiast&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
-
-<br>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=70&lines=Hey+%F0%9F%91%8B+I'm+Abdulrahman+Wael!;Full-Stack+Developer;Machine+Learning+Enthusiast;Computer+%26+AI+Engineering+Student" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Hey+%F0%9F%91%8B+I'm+Abdulrahman;I+craft+full-stack+web+experiences;...and+train+ML+models+on+the+side+%F0%9F%A7%A0;Always+building%2C+always+learning." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=1000&color=8b949e&center=true&vCenter=true&width=500&height=30&lines=Computer+%26+AI+Engineer+%7C+Full-Stack+Dev+%7C+ML+Enthusiast" alt="Subtitle" />
 </p>
 
 <p align="center">
@@ -130,15 +130,7 @@
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulrhmanHammouda&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity Graph"/>
 </p>
 
-<br/>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdulrhmanHammouda/AbdulrhmanHammouda/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdulrhmanHammouda/AbdulrhmanHammouda/output/github-contribution-grid-snake.svg">
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/AbdulrhmanHammouda/AbdulrhmanHammouda/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
 
 <br>
 
