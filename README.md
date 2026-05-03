@@ -130,7 +130,15 @@
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulrhmanHammouda&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity Graph"/>
 </p>
 
+<br/>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdulrhmanHammouda/AbdulrhmanHammouda/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdulrhmanHammouda/AbdulrhmanHammouda/output/github-contribution-grid-snake.svg">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/AbdulrhmanHammouda/AbdulrhmanHammouda/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 <br>
 
