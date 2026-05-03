@@ -74,7 +74,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏥 Clinic Management App</h3>
+      <h3>🏥 <a href="https://github.com/AbdulrhmanHammouda/Clinic-Web-App">Clinic Management App</a></h3>
       <p>A complete full-stack solution for managing clinic operations — patients, appointments, doctors, and staff — with role-based access control and secure auth flows.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs"/>
@@ -94,7 +94,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📊 ML Clinical Models</h3>
+      <h3>📊 <a href="https://github.com/AbdulrhmanHammouda/heart-disease-prediction-ml">ML Clinical Models</a></h3>
       <p>Trained and benchmarked 6 supervised learning models (SVM, Random Forest, KNN, Logistic Regression, Decision Tree, Naive Bayes) on clinical datasets to compare accuracy and performance.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
