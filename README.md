@@ -27,9 +27,8 @@
 > I love turning ideas into real, working products — whether that's a full-stack web app or a trained ML model.
 
 -  Currently working on full-stack and ML projects
--  Always learning something new (lately it's been system design + deep learning)
--  Happy to talk about React, Python, or anything coding-related
--  Competitive programmer at heart, full-stack dev by trade
+-  Always learning something new 
+
 
 <br>
 
