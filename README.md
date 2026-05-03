@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:58A6FF&height=180&section=header&text=Abdulrahman%20Wael&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Computer%20%26%20AI%20Engineer%20%7C%20Full-Stack%20Dev%20%7C%20ML%20Enthusiast&descSize=16&descAlignY=58&descColor=8b949e&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=200&section=header&text=Abdulrahman%20Wael&fontSize=48&fontAlignY=38&desc=Computer%20%26%20AI%20Engineer%20%7C%20Full-Stack%20Dev%20%7C%20ML%20Enthusiast&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
 
 <br>
 
@@ -159,4 +159,4 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0d1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" width="100%"/>
