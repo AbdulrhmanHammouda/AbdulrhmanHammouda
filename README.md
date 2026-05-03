@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=70&lines=Hey+%F0%9F%91%8B+I'm+Abdulrahman+Wael!;Full-Stack+Developer;Machine+Learning+Enthusiast;Computer+%26+AI+Engineering+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=70&lines=Hey+%F0%9F%91%8B+I'm+Abdulrahman+Wael!;Full-Stack+Developer;Machine+Learning+Enthusiast;Computer+%26+AI+Engineering+Student" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=1000&color=8b949e&center=true&vCenter=true&width=500&height=30&lines=Computer+%26+AI+Engineer+%7C+Full-Stack+Dev+%7C+ML+Enthusiast" alt="Subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=1000&color=8b949e&center=true&vCenter=true&width=800&height=30&lines=Computer+%26+AI+Engineer+%7C+Full-Stack+Dev+%7C+ML+Enthusiast" alt="Subtitle" />
 </p>
 
 <p align="center">
