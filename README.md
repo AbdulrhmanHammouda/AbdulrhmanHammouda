@@ -21,7 +21,7 @@
 
 <br>
 
-## 🙋‍♂️ About Me
+## 👤 About Me
 
 > Computer & AI Engineering student at **Ain Shams University** (dual degree with **University of East London**).
 > I love turning ideas into real, working products — whether that's a full-stack web app or a trained ML model.
@@ -69,12 +69,12 @@
 
 <br>
 
-## 🚀 Projects
+##  Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏥 <a href="https://github.com/AbdulrhmanHammouda/Clinic-Web-App">Clinic Management App</a></h3>
+      <h3> <a href="https://github.com/AbdulrhmanHammouda/Clinic-Web-App">Clinic Management App</a></h3>
       <p>A complete full-stack solution for managing clinic operations — patients, appointments, doctors, and staff — with role-based access control and secure auth flows.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs"/>
@@ -83,7 +83,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>👾 <a href="https://github.com/AbdulrhmanHammouda/reddit-clone">Reddit Clone</a></h3>
+      <h3> <a href="https://github.com/AbdulrhmanHammouda/reddit-clone">Reddit Clone</a></h3>
       <p>A faithful Reddit recreation — posts, nested comments, upvotes/downvotes, subreddits, and moderation. Built to understand how large community platforms are architected.</p>
       <p>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
@@ -94,7 +94,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📊 <a href="https://github.com/AbdulrhmanHammouda/heart-disease-prediction-ml">ML Clinical Models</a></h3>
+      <h3> <a href="https://github.com/AbdulrhmanHammouda/heart-disease-prediction-ml">ML Clinical Models</a></h3>
       <p>Trained and benchmarked 6 supervised learning models (SVM, Random Forest, KNN, Logistic Regression, Decision Tree, Naive Bayes) on clinical datasets to compare accuracy and performance.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -103,7 +103,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🖼️ <a href="https://github.com/AbdulrhmanHammouda/MNIST-Image-Classifier">MNIST Image Classifier</a></h3>
+      <h3> <a href="https://github.com/AbdulrhmanHammouda/MNIST-Image-Classifier">MNIST Image Classifier</a></h3>
       <p>End-to-end ML pipeline for handwritten digit recognition — from custom feature engineering to model evaluation across multiple architectures.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -116,7 +116,7 @@
 
 <br>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AbdulrhmanHammouda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
