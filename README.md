@@ -21,7 +21,7 @@
 
 <br>
 
-## 👤 About Me
+##  About Me
 
 > Computer & AI Engineering student at **Ain Shams University** (dual degree with **University of East London**).
 > I love turning ideas into real, working products — whether that's a full-stack web app or a trained ML model.
@@ -32,7 +32,7 @@
 
 <br>
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages**
 
@@ -141,7 +141,7 @@
 
 <br>
 
-## 🎓 Education
+##  Education
 
 | | University | Degree | Years | GPA |
 |---|---|---|---|---|
