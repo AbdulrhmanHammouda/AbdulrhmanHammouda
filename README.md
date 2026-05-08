@@ -146,7 +146,7 @@
 | | University | Degree | Years | GPA |
 |---|---|---|---|---|
 | 🇪🇬 | **Ain Shams University** | B.Sc. Computer & AI Engineering | 2023–2027 | 3.16 |
-| 🇬🇧 | **University of East London** | B.Sc. Computer Science *(Dual Degree)* | 2023–2027 | 4.0 |
+| 🇬🇧 | **University of East London** | B.Sc. Computer Science *(Dual Degree)* | 2023–2027 | - |
 
 <br>
 
