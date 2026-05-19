@@ -101,7 +101,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3> <a href="https://github.com/AbdulrhmanHammouda/MNIST-Image-Classifier">MNIST Image Classifier</a></h3>
+      <h3> <a href="https://github.com/AbdulrhmanHammouda/mnist-image-classification">MNIST Image Classifier</a></h3>
       <p>End-to-end ML pipeline for handwritten digit recognition — from custom feature engineering to model evaluation across multiple architectures.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
